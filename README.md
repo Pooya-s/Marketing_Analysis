@@ -1,7 +1,7 @@
 # Octopus Energy: Italian Energy Market Analytics
 
 ## Project Overview
- This repository contains a comprehensive marketing analytics project designed to evaluate the market positioning and potential growth strategies for Octopus Energy .  The analysis utilizes supervised and unsupervised machine learning methods, Natural Language Processing (NLP), and statistical market research techniques to process consumer data and generate actionable business intelligence.
+ This repository contains a comprehensive marketing analytics project designed to evaluate the market positioning and potential growth strategies for Octopus Energy .  The analysis utilizes supervised and unsupervised machine learning methods, Natural Language Processing (NLP), and statistical market research techniques to process consumer data and generate actionable business intelligence. For a deeper understanding please read the report file.
 
 ## Repository Structure
 
@@ -70,3 +70,22 @@
 ### Market Positioning & Consumer Priorities
 * **Positioning:** Octopus Energy currently exhibits low brand popularity and a weak sustainability perception compared to incumbent providers. Strategic marketing investments and rebranding campaigns are required to improve brand awareness and environmental positioning.
 *  **Consumer Priorities:** Across multiple analytical models and consumer segments, efficient technical assistance emerged as a critical factor in consumer decision-making and utility maximization.
+
+## Installation & Usage
+
+ To run the notebooks and scripts in this repository, you will need a standard Python data science environment. 
+ For the Conjoint Analysis (R): Ensure you have an R environment configured with these packages installed:
+"
+ `radiant`
+ `tidyverse`
+ `reshape2`
+ `readxl`
+"
+1.  **Web Scraping:** `selenium` is required for automating browser interactions, alongside a compatible Chrome WebDriver instance.
+2.  **Data Manipulation:** `pandas` is used extensively for cleaning data and formatting DataFrames.
+3.  **Machine Learning & NLP:** `scikit-learn` is required for executing the analytical models, including CountVectorizer, LDA, K-Means clustering, PCA, t-SNE, StandardScaler, SVM, and Logistic Regression.
+
+```bash
+git clone [https://github.com/Pooya-s/OctopusEnergy-Analytics.git](https://github.com/Pooya-s/OctopusEnergy-Analytics.git)
+cd OctopusEnergy-Analytics
+pip install -r requirements.txt

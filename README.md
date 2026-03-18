@@ -86,6 +86,6 @@
 3.  **Machine Learning & NLP:** `scikit-learn` is required for executing the analytical models, including CountVectorizer, LDA, K-Means clustering, PCA, t-SNE, StandardScaler, SVM, and Logistic Regression.
 
 ```bash
-git clone [https://github.com/Pooya-s/OctopusEnergy-Analytics.git](https://github.com/Pooya-s/OctopusEnergy-Analytics.git)
+git clone [https://github.com/Pooya-s/OctopusEnergy-Analytics.git](https://github.com/Pooya-s/Marketing_Analysis.git)
 cd OctopusEnergy-Analytics
 pip install -r requirements.txt

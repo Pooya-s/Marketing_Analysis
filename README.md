@@ -1,7 +1,7 @@
-# Octopus Energy: Italian Market Entry Analytics
+# Octopus Energy: Italian Energy Market Analytics
 
 ## Project Overview
- This repository contains a comprehensive marketing analytics project designed to evaluate the market positioning and potential growth strategies for Octopus Energy upon its entry into the Italian energy sector.  The analysis utilizes supervised and unsupervised machine learning methods, Natural Language Processing (NLP), and statistical market research techniques to process consumer data and generate actionable business intelligence.
+ This repository contains a comprehensive marketing analytics project designed to evaluate the market positioning and potential growth strategies for Octopus Energy .  The analysis utilizes supervised and unsupervised machine learning methods, Natural Language Processing (NLP), and statistical market research techniques to process consumer data and generate actionable business intelligence.
 
 ## Repository Structure
 

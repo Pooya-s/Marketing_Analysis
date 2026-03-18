@@ -87,5 +87,5 @@
 
 ```bash
 git clone [https://github.com/Pooya-s/OctopusEnergy-Analytics.git](https://github.com/Pooya-s/Marketing_Analysis.git)
-cd OctopusEnergy-Analytics
+cd Marketing_Analysis
 pip install -r requirements.txt

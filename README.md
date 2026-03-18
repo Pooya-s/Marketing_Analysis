@@ -31,10 +31,10 @@
  To run the notebooks and scripts in this repository, you will need a standard Python data science environment. 
  For the Conjoint Analysis (R): Ensure you have an R environment configured with these packages installed:
 "
- *radiant
- *tidyverse
- *reshape2
- *readxl
+ `radiant`
+ `tidyverse`
+ `reshape2`
+ `readxl`
 "
 1.  **Web Scraping:** `selenium` is required for automating browser interactions, alongside a compatible Chrome WebDriver instance.
 2.  **Data Manipulation:** `pandas` is used extensively for cleaning data and formatting DataFrames.
